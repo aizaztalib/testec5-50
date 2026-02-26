@@ -1,36 +1,40 @@
-# testec5
+# testec5p3
 
-dfdf
+dff
+
+## Project Information
+
+- **Backlog ID:** 50
+- **Submitted by:** UmerAziz95
+- **Git URL:** https://github.com/aizaztalib/testec5-50
+- **Status:** Pending
+- **Development Branch:** `feature/backlog-50-umeraziz95-20260226-062355`
 
 ## Project Files
 
-This repository contains the following files (Upload type: single_file):
+This repository contains the following files in branch `feature/backlog-50-umeraziz95-20260226-062355`:
 
-### 📄 Root Files
-- web.php
+### 📁 project_42_UmerAziz95__19
+- files_1772087035_0_web.php
 
-## Getting Started
+## Development Guidelines
 
-1. Clone this repository: `git clone https://github.com/aizaztalib/testec5-50.git`
-2. Review the backlog requirements in the description above
-3. Explore the uploaded files in the `backlog-files/` directory
-4. Start contributing!
-
-## ⏰ Deadline
-
-**Due Date:** March 12, 2026
-
-## 🪙 Reward
-
-**Coins:** 2 coins upon completion
+1. Clone this repository: `git clone [repository-url]`
+2. Switch to your development branch: `git checkout feature/backlog-50-umeraziz95-20260226-062355`
+3. Review the project requirements in the description above
+4. Explore the uploaded project files
+5. Follow the original project structure
+6. Test your changes before committing
+7. Push your changes to the `feature/backlog-50-umeraziz95-20260226-062355` branch
 
 ## 🤝 Contribution Guidelines
 
+- Work only in the `feature/backlog-50-umeraziz95-20260226-062355` branch
 - Follow the existing project structure
 - Write clear and descriptive commit messages
 - Test your changes before submitting
-- Create pull requests for major changes
+- Create pull requests from `feature/backlog-50-umeraziz95-20260226-062355` to `main` when ready
 
 ---
 
-*This repository was automatically created for backlog management. Total files uploaded: 1*
+*This repository was automatically created for project approval. Total files uploaded to branch `feature/backlog-50-umeraziz95-20260226-062355`: 1*
